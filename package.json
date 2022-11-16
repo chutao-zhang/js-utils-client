@@ -1,0 +1,29 @@
+{
+  "name": "js-utils-client",
+  "version": "1.0.0",
+  "description": "A simple js utils for client.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chutao-zhang/js-utils-client.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "cookie-utils-js": "^1.0.0"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "utils",
+    "js-utils",
+    "js-utils-client",
+    "browser",
+    "client",
+    "cookie",
+    "cookies",
+    "cookie-utils",
+    "cookie-utils-js"
+  ],
+  "author": "ChuTao Zhang <chutao.zhang@outlook.com>",
+  "license": "MIT"
+}
